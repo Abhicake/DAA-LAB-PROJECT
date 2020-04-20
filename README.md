@@ -1,2 +1,2 @@
 # DAA-LAB-PROJECT
-Image compression using 
+Image compression using Huffman coding
